@@ -1,6 +1,4 @@
 # Real-Time Chess Application
-https://chess-sr6b.onrender.com/
-
 
 ## Table of Contents
 
